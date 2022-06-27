@@ -40,8 +40,8 @@ flutter:
       android:
         package: me.carda.awesome_notifications
         pluginClass: AwesomeNotificationsPlugin
-      ios:
-        pluginClass: AwesomeNotificationsPlugin
+#      ios:
+#        pluginClass: AwesomeNotificationsPlugin
       #web:
       #  pluginClass: AwesomeNotifications
       #  fileName: awesome_notifications.dart
